@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 - **[Unity Tactics Game](https://github.com/ShaneCBarton/unity-tactics)**: A 3D isometric tactics game similar to XCOM that I made in 15 weeks for a school project.
 
 ### 🌐 **Web Projects**
-- **[Calculator](https://github.com/ShaneCBarton/calculator-project)[See the project](https://shanecbarton.github.io/calculator-project/)**: A simple calculator project made with JavaScript and HTML/CSS
+- **[Calculator](https://github.com/ShaneCBarton/calculator-project) [See the project](https://shanecbarton.github.io/calculator-project/)**: A simple calculator project made with JavaScript and HTML/CSS
 - **[Landing Page](https://github.com/ShaneCBarton/odin-landing-page) [See the page](https://shanecbarton.github.io/odin-landing-page/)**: A warhammer 40k themed landing page made to try to learn HTML/CSS.
 
 ---
