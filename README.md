@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 ---
 
 ## 📫 Let's Connect!
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/shane-c-barton/)
-- Email: [Email Me](shanecb@hotmail.ca)
+- LinkedIn: [Connect](https://www.linkedin.com/in/shane-c-barton/)
+- Email: [shanecb@hotmail.ca](shanecb@hotmail.ca)
 
 ---
