@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 ## 🚀 About Me
 
 - 🎨 **Game Development**: Most of my projects are Unity games where I try to bring my creative ideas to life. I'm also diving into game development with **C++** and libraries like **SFML** and **SDL**.
-- 🌐 **Web Development**: I am enjoying learning how to create web projects using **HTML**, **CSS**, and **JavaScript**.
+- 🌐 **Web Development**: I have begun learning how to create web projects using **HTML**, **CSS**, and **JavaScript**.
 - 🎵 **Creative Side**: Beyond coding, I make music and traditional art as well as digital art/3D modelling that help to fuel my creativity.
 - 📚 **Lifelong Learner**: I’m constantly picking up new skills and exploring new technologies and subjects.
 
@@ -27,8 +27,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 ## 🌟 Featured Projects
 
 ### 🎮 **Game Development**
-- **[Tiny Quest](https://github.com/ShaneCBarton/Tiny-Quest)**: A 2D top down game in the style of The Legend of Zelda developed in 15 weeks for a school project. 
-- **[Unity Tactics Game](https://github.com/ShaneCBarton/unity-tactics)**: A 3D isometric tactics game similar to XCOM that I made in 15 weeks for a school project.
+- **[Tiny Quest](https://github.com/ShaneCBarton/Tiny-Quest)**: A 2D top down game in the style of The Legend of Zelda developed in 15 weeks. [Play the game](https://shanecb.itch.io/tiny-quest)
+- **[Tiny Adventure](https://github.com/ShaneCBarton/Tiny-Adventure)**: A 2D turn absed RPG game in the style of pokemon made in Unity in 15 weeks.[Play the game](https://shanecb.itch.io/tiny-adventure)
+- **[Unity Tactics Game](https://github.com/ShaneCBarton/unity-tactics)**: A 3D isometric tactics game similar to XCOM that I made in 15 weeks.
 
 ### 🌐 **Web Projects**
 - **[Calculator](https://github.com/ShaneCBarton/calculator-project)**: A simple calculator project made with JavaScript and HTML/CSS. [See the project](https://shanecbarton.github.io/calculator-project/)
