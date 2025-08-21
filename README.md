@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 
 ## 🚀 About Me
 
-- 🎨 **Game Development**: Most of my projects are Unity games where I try to bring my creative ideas to life. I'm also diving into lower level engine development with my own SparkleEngine. I also have experience building projects in **Unreal Engine**.
-- ⚙️ **Engine Development**: I have begun creating a cimple and lightweight 2D game engine using **C++20**, **SFML 3** and **CMake**.
+- 🎨 **Game Development**: Most of my projects are **Unity** or **Unreal** games where I try to bring my creative ideas to life. I'm also diving into lower level engine development with my own SparkleEngine.
+- ⚙️ **Engine Development**: I have begun creating a simple and lightweight 2D game engine using **C++20**, **SFML 3** and **CMake**.
 - 🎵 **Creative Side**: Beyond coding, I make music and traditional art as well as digital art/3D modelling that help to fuel my creativity.
 - 📚 **Lifelong Learner**: I’m constantly picking up new skills and exploring new technologies and subjects.
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 ## 🌟 Featured Projects
 
 ### 🏗️ **Frameworks**
-- **[SparkleEngine](https://github.com/ShaneCBarton/SparkleEngine)**: A small and lightweight 2D game engine I am developing in order to create fun and awesome 2d games. It will be constantly updated and improved and eventually contain an Entity Component System, simple 2D physics and a GUI.
+- **[SparkleEngine](https://github.com/ShaneCBarton/SparkleEngine)**: A small and lightweight 2D game engine I am developing in order to create fun and awesome 2D games. It will be constantly updated and improved and eventually contain an Entity Component System, simple 2D physics and a GUI.
 
 ### 💰 **Contract Work**
 - **[Bus Cleaner Prototype](https://github.com/ShaneCBarton/Bus-Cleaner)**: A Prototype developed for a client as an on-the-job training simulation. Developed using Unity . [Try it out](https://shanecb.itch.io/buscleaner)
