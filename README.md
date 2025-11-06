@@ -13,12 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 - 🎵 **Creative Side**: Beyond coding, I make music and traditional art as well as digital art/3D modelling that help to fuel my creativity.
 - 📚 **Lifelong Learner**: I’m constantly picking up new skills and exploring new technologies and subjects.
 
-
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Technologies**: C++, C#, CMake, Git
+- **Technologies**: C++, C#, CMake, Git, JavaScript, SQL, Node.js
 - **Game Development**: Unity, SFML, Unreal
 - **Creative Tools**: Blender, Krita, Aesprite, Reaper
 
@@ -30,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 - **[SparkleEngine](https://github.com/ShaneCBarton/SparkleEngine)**: A small and lightweight 2D game engine I am developing in order to create fun and awesome 2D games. It will be constantly updated and improved and eventually contain an Entity Component System, simple 2D physics and a GUI.
 
 ### 💰 **Contract Work**
+- **[Kitchen Management Dashboard](https://github.com/ShaneCBarton/kitchen-manager)**: A dashboard for cooks and clients for a meal service company. Database built with PostgreSQL, Node.js & Express.js. Recipe database with creation/modification, daily meal prep list for cooks and menus for clients.
 - **[Bus Cleaner Prototype](https://github.com/ShaneCBarton/Bus-Cleaner)**: A Prototype developed for a client as an on-the-job training simulation. Developed using Unity . [Try it out](https://shanecb.itch.io/buscleaner)
 
 ### 🎮 **Personal Game Development**
