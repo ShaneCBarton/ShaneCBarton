@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 
 ## 🛠️ Technologies & Tools
 
-- **Technologies**: C++, C#, CMake, Git, JavaScript, SQL, Node.js
-- **Game Development**: Unity, SFML, Unreal
+- **Technologies**: C++, C#, CMake, Git, JavaScript, SQL, Node.js, Express.js
+- **Game Development**: Unity, SFML, Unreal, SDL, OpenGL, DirectX 12
 - **Creative Tools**: Blender, Krita, Aesprite, Reaper
 
 ---
@@ -41,8 +41,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 ---
 
 ## 📈 My Goals
-- Build more games using **Unity** to deepen my understanding of game design, mechanics and performance.
 - Continue to develop SparkleEngine into a more robust framework with additional features.
+- Build more games using **Unity** and **Unreal** to deepen my understanding of game design, mechanics and performance.
+- Dive deeper into graphics and rendering programming with DirectX 12 and Vulkan.
 - Explore advanced programming and engineering techniques.
 - Continue creating and blending art, music, and code into unique projects.
 
