@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shane Barton!
 
-🎮 **Game Developer | Tech Enthusiast | Artist & Music Creator**
+🎮 **Game Developer | Software Developer | Tech Enthusiast | Artist & Music Creator**
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build games, explore engine development, and create art and music. My journey in tech has been all about learning, experimenting, and growing.
 
@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build game
 
 ### 🏗️ **Frameworks**
 - **[SparkleEngine](https://github.com/ShaneCBarton/SparkleEngine)**: A small and lightweight 2D game engine I am developing in order to create fun and awesome 2D games. It will be constantly updated and improved and eventually contain an Entity Component System, simple 2D physics and a GUI.
+
+### 🕸️ **Web**
+- **[Game Tracking](https://github.com/ShaneCBarton/good-game-shelf)**: A full-stack game tracking web app for games. Pull your Steam library automatically, manually add PlayStation, Xbox, and Nintendo titles, and keep all your games in one place with personal reviews and completion status.
 
 ### 💰 **Contract Work**
 - **[Kitchen Management Dashboard](https://github.com/ShaneCBarton/kitchen-manager)**: A dashboard for cooks and clients for a meal service company. Database built with PostgreSQL, Node.js & Express.js. Recipe database with creation/modification, daily meal prep list for cooks and menus for clients.
